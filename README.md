@@ -1,3 +1,5 @@
+# Freeflow RPG
+
 These rules are a framework that can be tweaked, feel free to change and adapt ir as you wish, the standard rules and values are there for anyone that wishes to simply dive in without having to worry about picking the system apart. 
 
 ### Dice Rolling Mechanism
