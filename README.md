@@ -299,44 +299,64 @@ These optional special characteristics can be used to mechanically and thematica
 
 **Doctor:**
 Once per encounter can make a roll and if successful remove or add one temporary aspect to a character for free
+
 **Attentive:**
 Once per encounter can roll one additional aspect that is not their own for free. This aspect can go over the maximum limit for that character
+
 **Reactive:**
 Once per encounter can use an aspect on a reactive roll without exhausting it.
+
 **Aggressive:**
 Once per encounter can use an additional aspect from their character aspects for free by exhausting it until the end of their next turn. This aspect can go over the maximum limit for that character
+
 **Leader:**
 Once per encounter can perform a maneuver to allow one ally within ear range to borrow one of the tactical player's aspect without spending their actions.
+
 **Physical:**
 Once per encounter when rolling for a physical action may add an extra aspect to the roll for free. This aspect can go over the maximum limit for that character
+
 **Social:**
 Once per encounter when rolling for a Social action may add an extra aspect to the roll for free. This aspect can go over the maximum limit for that character.
+
 **Intellectual:**
 Once per encounter when rolling for a Intellectual action may add an extra aspect to the roll for free. This aspect can go over the maximum limit for that character.
+
 **Special:**
 Once per encounter when rolling for a Special action (magic, superpower, item, etc...) may add an extra aspect to the roll for free. This aspect can go over the maximum limit for that character.
+
 **Prepared:**
 Once per encounter can negate an opposing aspect invocation during a roll that targets themselves.
+
 **Disorienting:**
 Once per encounter can reroll a roll of an opposing action for free.
+
 **Inspiring:**
 Once per encounter, during an allied character's roll, may have that character reroll a dice for free.
+
 **Tactical:**
 Once per encounter may have up to 2 allied characters perform an extra maneuver during their turn.
+
 **Distracting:**
 Once per encounter during an opposing roll can exhaust an aspect until the end of their turn to have an opposing roll subtract that aspect rating from that roll.
+
 **Poisonous:**
 Once per encounter on a successful roll against an opposed character may have that character exhaust up to 1 aspect until the end of their turn.
+
 **Melee combatant**:
 On a successful melee attack roll may exhaust an item aspect invoked during that roll until the beginning of their next turn to cause 1 extra damage point.
+
 **Ranged combatant**:
 On a successful ranged attack roll may exhaust an item aspect invoked during that roll until the beginning of their next turn to cause 1 extra damage point.
+
 **Special combatant**:
 On a successful ranged attack roll may exhaust an special aspect invoked during that roll until the beginning of their next turn to cause 1 extra damage point.
+
 **Impulsive**
 Once per encounter before a roll the player may exhaust one of the invoked aspect until the end of their next action to add 1 to its rating.
+
 **Reckless**
 Once per encounter before a roll the player may exhaust one of the invoked aspect until the end of the encounter to double its rating.
+
 
 ### High fantasy setting
 Write a High Fantasy setting and outline the variations and special rules used in it for character creation, gameplay, items, etc…
