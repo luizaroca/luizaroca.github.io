@@ -21,6 +21,7 @@ Aspects are adjectives or descriptors that can be invoked by players or GMs duri
 - **Conditions**: Condition aspects (e.g., "Leg Injury") can be created to represent ongoing effects. These can be invoked to gain bonuses or impose penalties. _(Example: A player can trip on an unseen obstacle due to the darkness and gain the temporary aspect of "Bruised Ankle" at the rating of 1. That aspect can be used negatively by the GM on athletic rolls but can also be invoked by the player to try and get help on social rolls)_
 - Bellow is a table with some suggestions for temporary character conditions to use in scenes and sessions, these are meant to be over quickly. GMs are free to reveal or hide the modifier effects to the players, these modifiers can rank up when conditions are repeatedly inflicted.
 
+
 | **Temporary Condition** | **Description**                           | **Modifier**                                |
 | ----------------------- | ----------------------------------------- | ------------------------------------------- |
 | Sprained Wrist          | Difficulty handling objects.              | -1 on dexterity-based actions               |
@@ -43,6 +44,7 @@ Aspects are adjectives or descriptors that can be invoked by players or GMs duri
 | Winded                  | Short of breath from exertion.            | -1 on endurance actions                     |
 | Headache                | Pain and distraction from a headache.     | -1 on mental actions                        |
 | Bruised Ribs            | Pain when moving torso.                   | -1 on physical actions involving upper body |
+
 - **Items**: Items can be represented as semi-permanent aspects acquired by players, not all items are aspects though, only the ones that can be relevant in completing tasks and are of notable qualities. For instance armor items can be invoke when resolving combat rolls as the target of an attack while weapons can be invoked when performing the attack.  
     
 - **Magic and super powers:** When using magic/super power systems, the magic schools or types of power can be represented as additional aspects with degrees of ratings that can be added to the dice rolls when the players invoke their magical capabilities. Using these systems will allow players to add an additional modifier on top of the base modifier limits to display their supernatural powers. The GM may choose to demand a resource expenditure when adding these aspects to a roll, like stress or mana points.
@@ -85,6 +87,7 @@ When players roll they can choose up to 1 major and up to 1 minor Aspects to inv
 | Jealous                            | Easily envious of others.                    | -1 on actions involving teamwork              |
 | Gullible                           | Easily deceived by others.                   | -1 on actions requiring discernment           |
 | Overweight                         | Difficulty with physical exertion.           | -1 on endurance and agility actions           |
+
 ### Goal Track
 
 Set at the character creation, defines the character's main goal when acting, must be related to the group overall, GM and players should discuss the best goals for each character. Can be changed at the beginning of each scene based on **prior aspects,** can be zoomed in into detailed goal based on prior goal for instance, or changed based on new priorities. GMs can set specific Goals for the group or individuals based on narrative turns.
